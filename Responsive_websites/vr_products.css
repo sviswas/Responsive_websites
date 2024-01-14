@@ -1,0 +1,34 @@
+.vr_headset_heading {
+  font-family: "Roboto";
+}
+.rupees {
+  font-size: 15px;
+  font-weight: 300;
+}
+.button_style {
+  color: white;
+  font-weight: 100;
+  height: 40px;
+  border-radius: 5px;
+  width: 138px;
+  background-color: #1f2933;
+  border-width: 1px;
+  border-color: white;
+}
+.bg_vr_image {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+  background-size: cover;
+  height: 100vh;
+  color: white;
+}
+.bg_vr_image_controllers {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+  background-size: cover;
+  height: 100vh;
+  color: white;
+}
+
+.main_heading {
+  color: #1f2933;
+  font-weight: bold;
+}

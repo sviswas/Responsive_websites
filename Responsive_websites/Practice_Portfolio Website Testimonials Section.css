@@ -1,0 +1,29 @@
+.testimonials_para {
+  color: #cced00;
+  font-weight: bold;
+}
+.main_heading {
+  color: white;
+  font-weight: bold;
+}
+.bg_color_gray {
+  background-color: #1f2933;
+  height: auto;
+}
+.image_dimensions {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+.bg_color_dark_gray {
+  background-color: #323f4b;
+}
+.card_paragraph {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+.card_bottom_heading {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}

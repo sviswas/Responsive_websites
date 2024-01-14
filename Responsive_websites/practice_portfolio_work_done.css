@@ -1,0 +1,15 @@
+.horizontal_line {
+  background-color: white;
+  width: 60px;
+}
+.bg_image {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+  background-size: cover;
+}
+.card_section {
+  color: white;
+}
+.heading {
+  font-weight: bold;
+  font-size: 40px;
+}

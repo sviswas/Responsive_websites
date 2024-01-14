@@ -1,0 +1,17 @@
+.bg_color {
+  background-color: #f5f7fa;
+}
+.button_style {
+  color: #ff9f00;
+  height: 40px;
+  width: 140px;
+  border-style: solid;
+  border-width: 1px;
+  background-color: transparent;
+  border-color: #ff9f00;
+}
+.main_heading {
+  color: #183b56;
+  font-weight: bold;
+  font-size: 30px;
+}

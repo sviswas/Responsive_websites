@@ -1,0 +1,37 @@
+.letter_j {
+  font-weight: bold;
+  font-size: 40px;
+  height: 70px;
+  width: 60px;
+  padding: 5px;
+  border-width: 2px;
+  border: solid #4b6cc1;
+}
+#nav_items {
+  color: rgb(236, 231, 231);
+  font-size: 17px;
+}
+.bg_color {
+  background-color: #191a1d;
+  height: 100vh;
+}
+.button_style {
+  height: 38px;
+  width: 130px;
+  border-width: 0px;
+  color: white;
+  border-radius: 10px;
+  background-color: #4b6cc1;
+}
+.paragraph {
+  color: rgb(160, 155, 155);
+}
+.span_element {
+  color: #4b6cc1;
+}
+.heading {
+  color: white;
+}
+.image_dimensions {
+  width: 290px;
+}

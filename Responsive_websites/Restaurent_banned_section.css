@@ -1,0 +1,36 @@
+.button_style_2 {
+  background-color: transparent;
+  color: white;
+  height: 40px;
+  width: 130px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: yellow;
+  border-style: solid; 
+}
+.background_image {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+#hyperlink_style {
+  color: black;
+  font-size: 16px;
+}
+.main_heading {
+  color: white;
+  font-size: 30px;
+  font-family: "Roboto";
+}
+.image_dimensions {
+  height: 70px;
+  width: 90px;
+}
+.button_style {
+  color: white;
+  height: 40px;
+  width: 130px;
+  background-color: #1a2137;
+  border-radius: 5px;
+  border-width: 0px;
+}

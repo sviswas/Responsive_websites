@@ -1,0 +1,12 @@
+.bg_color {
+  background-color: #f9fbfe;
+}
+.main_heading {
+  font-weight: bold;
+  font-family: "Roboto";
+  font-size: 30px;
+  color: #323f4b;
+}
+.image_dimensions {
+  width: 100%;
+}

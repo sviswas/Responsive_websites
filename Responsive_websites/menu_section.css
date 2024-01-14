@@ -1,0 +1,17 @@
+.background_color_white {
+  background-color: white;
+}
+.main_heading {
+  font-weight: bold;
+  font-family: "Roboto";
+}
+.card_menu {
+}
+
+.image_dimensions {
+  width: 100%;
+  border-radius: 20px;
+}
+.paragraph_heading {
+  font-size: 27px;
+}

@@ -1,0 +1,21 @@
+.hyperlink_style {
+  font-weight: bold;
+  color: #ff9f00;
+}
+.main_heading {
+  color: #183b56;
+  font-weight: bold;
+  font-size: 40px;
+}
+.card_heading {
+  font-size: 30px;
+  color: #183b56;
+  font-weight: bold;
+}
+.card_paragraph {
+  color: #959ead;
+  font-size: 18px;
+}
+.image_dimensions {
+  width: 100%;
+}

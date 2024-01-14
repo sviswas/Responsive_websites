@@ -1,0 +1,39 @@
+.bg_color {
+  background-color: #19232d;
+  height: 150vh;
+}
+.icons {
+  background-color: #202b36;
+  margin: 10px;
+  color: #5a7184;
+  padding: 15px;
+  border-radius: 40px;
+}
+.image_dimensions {
+  height: 90px;
+  width: 100px;
+}
+.paragraph_37 {
+  color: #5a7184;
+  font-size: 25px;
+  font-weight: 200;
+}
+.icon {
+  color: #5a7184;
+}
+.color_text {
+  color: white;
+}
+.heading {
+  font-weight: bold;
+  color: white;
+}
+.para_footer {
+  color: #5a7184;
+  font-size: 20px;
+  font-weight: 250;
+}
+hr {
+  border: solid #5a7184;
+  border-width: 1px;
+}

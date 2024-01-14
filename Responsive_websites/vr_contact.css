@@ -1,0 +1,22 @@
+.bg_color_dark_blue {
+  background-color: #222b36;
+  height: 100vh;
+}
+.button_transparent {
+  background-color: transparent;
+  color: white;
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 5px;
+  height: 38px;
+  width: 128px;
+}
+.image_dimensions {
+  width: 100%;
+}
+.main-heading {
+  color: white;
+  font-weight: bold;
+  font-family: "Roboto";
+}

@@ -1,0 +1,10 @@
+.logo {
+  border: solid white;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: 700;
+  font-size: 30px;
+}
+.text_align {
+  text-align: center;
+}

@@ -1,0 +1,13 @@
+.main_heading {
+  font-weight: 500;
+  color: #323f4b;
+  font-size: 30px;
+}
+.paragraph {
+  color: #7b8794;
+  font-size: 18px;
+  font-family: "Roboto";
+}
+.image_dimensions {
+  width: 300px;
+}

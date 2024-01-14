@@ -1,0 +1,25 @@
+.bg_color_white {
+  background-color: #f5f7fa;
+  background-size: cover;
+}
+.card_heading {
+  color: #183b56;
+  font-weight: bold;
+  font-size: 25px;
+}
+.main_heading {
+  color: #183b56;
+  font-weight: bold;
+  font-size: 40px;
+}
+.image_dimensions {
+  width: 100%;
+  border-radius: 25px;
+}
+.hyper_link_style {
+  font-weight: bold;
+  color: #ff9f00;
+}
+.card_name {
+  color: #1f2933;
+}

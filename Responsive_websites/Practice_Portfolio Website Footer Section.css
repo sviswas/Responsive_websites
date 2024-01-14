@@ -1,0 +1,24 @@
+.bg_color_dark_gray {
+  background-color: #0d2436;
+}
+.image_dimensions {
+  height: 100x;
+  width: 100px;
+  border-radius: 50px;
+}
+.main_heading {
+  color: #cced00;
+  font-size: 30px;
+  font-weight: bold;
+}
+.paragraph {
+  color: #5a7184;
+  font-size: 18px;
+  font-weight: bold;
+}
+.icon_color_grey {
+  color: #9aa5b1;
+}
+.bg_color_gray {
+  background-color: #001c32;
+}

@@ -1,0 +1,33 @@
+.portfolio_para {
+  color: #cced00;
+  font-weight: bold;
+  font-size: 20px;
+}
+.bg_color_first {
+  background-color: #3e4c59;
+  height: auto;
+}
+.bg_color_second {
+  background-color: #323f4b;
+}
+.image_dimensions {
+  width: 100%;
+}
+.main_heading_projects {
+  color: white;
+}
+.read_more_link {
+  color: #cced00;
+  font-weight: bold;
+}
+.card_paragraph {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+.card_heading {
+  color: white;
+  font-size: 30px;
+}
+.card_para {
+  color: #9aa5b1;
+}

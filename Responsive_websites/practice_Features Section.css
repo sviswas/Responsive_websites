@@ -1,0 +1,18 @@
+.main_heading {
+  font-weight: bold;
+  font-size: 40px;
+  color: #323f4b;
+}
+.paragraph {
+  font-size: 18px;
+  color: #7b8794;
+  font-family: "Roboto";
+}
+.image_dimensions {
+  width: 250px;
+}
+.card_main_heading {
+  font-weight: 500;
+  font-size: 30px;
+  color: #323f4b;
+}

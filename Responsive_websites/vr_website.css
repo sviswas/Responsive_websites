@@ -1,0 +1,19 @@
+.main_heading {
+  font-family: "Roboto";
+  color: #1f2933;
+}
+.paragraph {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+.image_dimensions {
+  height: 100px;
+  width: 100px;
+}
+.vr_card {
+  text-align: center;
+}
+.bg_white {
+  background-color: white;
+}

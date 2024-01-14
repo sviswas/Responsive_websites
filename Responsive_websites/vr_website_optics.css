@@ -1,0 +1,23 @@
+.button_style {
+  border-width: 0px;
+  border-radius: 5px;
+  height: 40px;
+  color: white;
+  width: 128px;
+  background-color: #1a2137;
+}
+.main_heading {
+  color: #1f2933;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+.paragraph {
+  color: #7b8794;
+}
+.image_dimensions {
+  width: 250px;
+  height: 250px;
+}
+.bg_white {
+  background-color: white;
+}

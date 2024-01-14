@@ -1,0 +1,33 @@
+.image_dimensions {
+  width: 75%;
+}
+.amazon_heading {
+  color: #959ead;
+  font-size: 15px;
+  font-weight: bold;
+}
+.paragraph {
+  color: #323f4b;
+  font-size: 16px;
+  font-weight: 200;
+}
+.read_more {
+  color: #1754a1;
+  font-weight: bold;
+  font-size: 15px;
+}
+.main_heading {
+  color: #1f2933;
+  font-weight: bold;
+}
+.bg_white {
+  background-color: white;
+}
+.button_style {
+  background-color: #1754a1;
+  height: 40px;
+  width: 140px;
+  color: white;
+  border-radius: 5px;
+  border-width: 0px;
+}

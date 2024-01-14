@@ -1,0 +1,25 @@
+.bg_color_gray {
+  background-color: #52606d;
+  height: auto;
+}
+.services_para {
+  font-weight: bold;
+  color: #cced00;
+  font-size: 20px;
+}
+.main_heading {
+  color: white;
+  font-weight: bold;
+}
+.bg_color_dark_gray {
+  background-color: #323f4b;
+  border-radius: 10px;
+}
+.card_heading {
+  color: white;
+  font-weight: bold;
+}
+.card_paragraph {
+  color: #9aa5b1;
+  font-size: 18px;
+}

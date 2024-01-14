@@ -1,0 +1,32 @@
+.facts_para {
+  color: #cced00;
+  font-weight: bold;
+  font-size: 20px;
+}
+.paragraph {
+  color: #9aa5b1;
+  font-size: 17px;
+}
+.bg_color_first {
+  background-color: #323f4b;
+}
+.main_heading {
+  font-weight: bold;
+  color: white;
+}
+.image_dimensions {
+  width: 75%;
+}
+.bg_color_second {
+  background-color: #1f2933;
+}
+.bg_card {
+  background-color: #323f4b;
+  width: 250px;
+  text-align: center;
+  padding: 10px;
+}
+.card_heading {
+  color: white;
+  font-weight: bold;
+}

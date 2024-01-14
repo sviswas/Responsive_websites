@@ -1,0 +1,33 @@
+.main_heading_wcu {
+  font-weight: bold;
+  font-family: "Roboto";
+  font-size: 45px;
+}
+.main_paragraph_wcu {
+  color: rgb(94, 88, 88);
+  font-size: 18px;
+}
+.card_bg_white {
+  background-color: white;
+  border-radius: 15px;
+  text-align: center;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(226, 221, 221);
+}
+.card_main_heading_wcu {
+  font-size: 30px;
+  font-family: "sans-serif";
+}
+.card_main_paragraph_wcu {
+  color: rgb(94, 88, 88);
+  font-size: 18px;
+}
+.offers {
+  font-style: italic;
+  font-weight: bold;
+  color: black;
+}
+.wcu_section {
+  background-color: #f9fbfe;
+}

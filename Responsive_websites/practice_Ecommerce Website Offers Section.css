@@ -1,0 +1,26 @@
+.main_heading {
+  color: #ad2167;
+  font-size: 40px;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.paragraph {
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+.span_para_element {
+  font-weight: bold;
+  color: #f49541;
+}
+.span_element {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+.bg_color {
+  background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+.image_dimensions {
+  width: 100%;
+}

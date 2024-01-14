@@ -1,0 +1,14 @@
+.main_heading {
+  color: #323f4b;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+.paragraph {
+  color: #7b8794;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto";
+}
+.bg_color_white {
+  background-color: #ffffff;
+}
